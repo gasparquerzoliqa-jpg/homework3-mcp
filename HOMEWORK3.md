@@ -168,3 +168,7 @@ All 7 smoke tests now pass.
 3. **Access Control Testing:** The smoke tests include coverage for both successful logins and access denial scenarios, which helped catch the data inconsistency.
 
 4. **Test Data Management:** Proper test data setup (ensuring test users have correct status) is critical for test reliability.
+
+## Screenshots
+
+![Investigation Screenshot](screenshots/Screenshot%202026-11-01%20215928.png)
