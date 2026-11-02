@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "bootcamp-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "C:\\Users\\Gaspar\\Documents\\AI CURSO\\ai-bootcamp-2\\mcp-server\\server.js"
+      ],
+      "env": {}
+    }
+  }
+}
